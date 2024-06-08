@@ -1,0 +1,3 @@
+#lambda functions
+#map
+#reduce
